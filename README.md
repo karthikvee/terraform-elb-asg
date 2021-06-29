@@ -1,4 +1,3 @@
-#Challenge2
 #steps-1
 configure aws credentials in aws cli with command 
 ```
